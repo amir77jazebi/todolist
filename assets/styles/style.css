@@ -1,0 +1,29 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+/* add font arialbd */
+
+@font-face {
+    font-family: 'arialbd';
+    src: url('../fonts/arialbd.ttf');
+}
+
+body {
+    font-family: 'arialbd';
+
+}
+
+input {
+    outline: 0;
+}
+
+a {
+    text-decoration: 0;
+    color: black;
+}
+
+
+
